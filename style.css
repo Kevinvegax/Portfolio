@@ -699,3 +699,10 @@ footer span a:hover{
         line-height: 38px;
     }
 }
+@media (max-width: 300px) {
+
+    .home{
+        background: url("images/banner6.jpg") no-repeat;
+    }
+
+}
