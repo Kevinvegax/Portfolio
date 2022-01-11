@@ -567,6 +567,7 @@ footer span a:hover{
         height: 350px;
         width: 350px;
     }
+    
 }
 
 @media (max-width: 991px) {
@@ -640,6 +641,11 @@ footer span a:hover{
 }
 
 @media (max-width: 690px) {
+
+    .home{
+        background: url("images/banner5.jpg") no-repeat ;
+    }
+
     .max-width{
         padding: 0 23px;
     }
@@ -658,6 +664,12 @@ footer span a:hover{
 }
 
 @media (max-width: 500px) {
+
+    .home{
+        background: url("images/banner5.jpg") no-repeat;
+    }
+
+
     .home .home-content .text-2{
         font-size: 50px;
     }
